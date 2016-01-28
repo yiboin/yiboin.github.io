@@ -5,8 +5,8 @@
 # Site
 title: Hexo
 subtitle:
-description:
-author: John Doe
+description: a fool boyi
+author: Yiboin
 language:
 timezone:
 
@@ -66,7 +66,15 @@ pagination_dir: page
 theme: next
 
 #images
-#avatar: /images/1.jpg
+avatar: /images/avatar.jpg
+
+#Social links
+social:
+	github: https://github.com/yiboin/yiboin
+	weibo: https://weibo.com/yibo说
+
+#
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
