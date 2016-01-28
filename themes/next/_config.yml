@@ -68,11 +68,10 @@ scheme: Muse
 # ---------------------------------------------------------------
 
 
- Social links
+# Social links
 # social:
-  GitHub: https://github.com/yiboin
-  Weibo: http://weibo.com/p/1005052681305603/home?from=page_100505_profile&wvr=6&mod=data&is_all=1#place
-  Others:
+  #GitHub:
+  #Others:
 
 # Social Icons
 social_icons:
