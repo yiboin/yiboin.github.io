@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Yiboin
 subtitle:
 description: a fool boyi
 author: Yiboin
@@ -69,9 +69,9 @@ theme: next
 avatar: /images/avatar.jpg
 
 #Social links
-social:
-	github: https://github.com/yiboin/yiboin
-	weibo: https://weibo.com/yibo说
+#social:
+ #github: https://github.com/yiboin/yiboin
+ #weibo: https://weibo.com/yibo说
 
 #
 
