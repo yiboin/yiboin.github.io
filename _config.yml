@@ -7,7 +7,7 @@ title: Yiboin
 subtitle:
 description: a fool boyi
 author: Yiboin
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -65,15 +65,6 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: next
 
-#images
-avatar: /images/avatar.jpg
-
-#Social links
-#social:
- #github: https://github.com/yiboin/yiboin
- #weibo: https://weibo.com/yibo说
-
-#
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -82,3 +73,27 @@ deploy:
   repo: git@github.com:yiboin/yiboin.github.io.git
   branch: master
   
+#
+
+#images
+avatar: /images/avatar.jpg
+
+since: 2016
+
+# title, chinese available
+links_title: Links
+
+# links
+links:
+  Martin Yao: http://edcmartin.github.io
+
+#Social links
+social:
+ github: https://github.com/yiboin
+ weibo: http://weibo.com/yiboin
+
+#
+duoshuo_shortname: yiboin
+
+#baidu tong ji
+baidu_analytics: 7ecb78d1cf800c536092ec77ae4276d1
