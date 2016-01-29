@@ -80,7 +80,7 @@ social_icons:
   # Icon Mappings
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
+  Weibo: /source/images/weibo.jpg
 
 
 # Sidebar Avatar
@@ -106,8 +106,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -166,7 +166,7 @@ mathjax: true
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 7ecb78d1cf800c536092ec77ae4276d1
 
 # Duoshuo ShortName
 #duoshuo_shortname:
